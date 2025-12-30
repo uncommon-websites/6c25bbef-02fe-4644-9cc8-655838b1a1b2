@@ -6,10 +6,10 @@
 	<div class="flex flex-col md:flex-row items-center justify-between gap-12">
 		<div class="max-w-xl">
 			<h2 class="text-3xl font-serif text-gray-900 mb-4">
-				Scale with security. <span class="text-gray-500 font-sans text-lg font-normal">Attio is audited and certified by industry-leading third party standards.</span>
+				Enterprise-ready from day one. <span class="text-gray-500 font-sans text-lg font-normal">Sage is built with enterprise-grade security, compliance, and reliability requirements.</span>
 			</h2>
 			<a href="#" class="inline-block mt-4 text-sm font-medium text-gray-600 hover:text-black border border-gray-200 px-4 py-2 rounded-lg hover:border-gray-300 transition-colors">
-				Talk to sales
+				Contact sales
 			</a>
 		</div>
 

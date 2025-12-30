@@ -18,7 +18,7 @@
 
 	<div class="relative z-10 max-w-2xl mx-auto">
 		<h2 class="text-5xl font-serif text-gray-900 mb-8">
-			The CRM behind<br/>thousands of companies.
+			The presentation tool<br/>professionals choose.
 		</h2>
 		
 		<div class="flex items-center justify-center gap-4">
@@ -26,7 +26,7 @@
 				Start for free
 			</a>
 			<a href="#" class="text-sm font-medium text-gray-600 hover:text-black border border-gray-200 px-5 py-2.5 rounded-lg hover:border-gray-300 transition-colors">
-				Talk to sales
+				Contact sales
 			</a>
 		</div>
 	</div>

@@ -9,67 +9,65 @@
 			<div class="col-span-2">
 				<a href="/" class="flex items-center gap-2 text-white mb-6">
 					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<path d="M5.5 12L10.5 19L15.5 12L10.5 5L5.5 12Z" fill="white"/>
-						<path d="M10.5 19L15.5 12L20.5 19H10.5Z" fill="white" fill-opacity="0.5"/>
-						<path d="M5.5 12L10.5 5L15.5 12H5.5Z" fill="white" fill-opacity="0.5"/>
+						<rect x="4" y="4" width="16" height="16" rx="2" stroke="white" stroke-width="2" fill="none"/>
+						<path d="M4 9 L20 9 M9 4 L9 20" stroke="white" stroke-width="2"/>
 					</svg>
-					<span class="font-bold text-xl tracking-tight">attio</span>
+					<span class="font-bold text-xl tracking-tight">Sage</span>
 				</a>
 			</div>
 
 			<!-- Columns -->
 			<div>
-				<h4 class="text-sm font-medium text-gray-400 mb-4">Platform</h4>
+				<h4 class="text-sm font-medium text-gray-400 mb-4">Product</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white">Refer a team <span class="bg-blue-600 text-[10px] px-1.5 py-0.5 rounded ml-1 text-white">New</span></a></li>
-					<li><a href="#" class="hover:text-white">Changelog</a></li>
-					<li><a href="#" class="hover:text-white">Gmail extension ></a></li>
-					<li><a href="#" class="hover:text-white">iOS app ></a></li>
-					<li><a href="#" class="hover:text-white">Android app ></a></li>
-					<li><a href="#" class="hover:text-white">Security</a></li>
+					<li><a href="#" class="hover:text-white">Templates <span class="bg-blue-600 text-[10px] px-1.5 py-0.5 rounded ml-1 text-white">New</span></a></li>
+					<li><a href="#" class="hover:text-white">Marketplace</a></li>
+					<li><a href="#" class="hover:text-white">Precision Editing</a></li>
+					<li><a href="#" class="hover:text-white">Mind Map</a></li>
+					<li><a href="#" class="hover:text-white">Export</a></li>
+					<li><a href="#" class="hover:text-white">Pricing</a></li>
 				</ul>
 				
 				<h4 class="text-sm font-medium text-gray-400 mt-8 mb-4">Company</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white">Customers</a></li>
-					<li><a href="#" class="hover:text-white">Announcements</a></li>
-					<li><a href="#" class="hover:text-white">Engineering blog <span class="bg-blue-600 text-[10px] px-1.5 py-0.5 rounded ml-1 text-white">New</span></a></li>
-					<li><a href="#" class="hover:text-white">Careers</a></li>
-					<li><a href="#" class="hover:text-white">Manifesto</a></li>
-					<li><a href="#" class="hover:text-white">Become a partner</a></li>
+					<li><a href="#" class="hover:text-white">About</a></li>
+					<li><a href="#" class="hover:text-white">Blog</a></li>
+					<li><a href="#" class="hover:text-white">Careers <span class="bg-blue-600 text-[10px] px-1.5 py-0.5 rounded ml-1 text-white">We're hiring</span></a></li>
+					<li><a href="#" class="hover:text-white">Fundraising</a></li>
+					<li><a href="#" class="hover:text-white">Contact</a></li>
 				</ul>
 			</div>
 
 			<div>
-				<h4 class="text-sm font-medium text-gray-400 mb-4">Import from</h4>
+				<h4 class="text-sm font-medium text-gray-400 mb-4">Use Cases</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white">Salesforce</a></li>
-					<li><a href="#" class="hover:text-white">Hubspot</a></li>
-					<li><a href="#" class="hover:text-white">Pipedrive</a></li>
-					<li><a href="#" class="hover:text-white">Zoho</a></li>
-					<li><a href="#" class="hover:text-white">Excel</a></li>
-					<li><a href="#" class="hover:text-white">CSV</a></li>
+					<li><a href="#" class="hover:text-white">Consulting</a></li>
+					<li><a href="#" class="hover:text-white">Sales</a></li>
+					<li><a href="#" class="hover:text-white">Fundraising</a></li>
+					<li><a href="#" class="hover:text-white">Marketing</a></li>
+					<li><a href="#" class="hover:text-white">Product</a></li>
+					<li><a href="#" class="hover:text-white">Strategy</a></li>
 				</ul>
 
-				<h4 class="text-sm font-medium text-gray-400 mt-8 mb-4">Attio for</h4>
+				<h4 class="text-sm font-medium text-gray-400 mt-8 mb-4">Sage for</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white">Startups</a></li>
-					<li><a href="#" class="hover:text-white">Deal flow</a></li>
+					<li><a href="#" class="hover:text-white">Consultants</a></li>
+					<li><a href="#" class="hover:text-white">Entrepreneurs</a></li>
 				</ul>
 			</div>
 
 			<div>
-				<h4 class="text-sm font-medium text-gray-400 mb-4">Apps</h4>
+				<h4 class="text-sm font-medium text-gray-400 mb-4">Integrations</h4>
 				<ul class="space-y-3 text-sm text-gray-300">
-					<li><a href="#" class="hover:text-white">Gmail</a></li>
-					<li><a href="#" class="hover:text-white">Outlook</a></li>
-					<li><a href="#" class="hover:text-white">Segment</a></li>
-					<li><a href="#" class="hover:text-white">Mailchimp</a></li>
+					<li><a href="#" class="hover:text-white">PowerPoint</a></li>
+					<li><a href="#" class="hover:text-white">Google Slides</a></li>
+					<li><a href="#" class="hover:text-white">Keynote</a></li>
+					<li><a href="#" class="hover:text-white">Figma</a></li>
+					<li><a href="#" class="hover:text-white">Notion</a></li>
+					<li><a href="#" class="hover:text-white">Google Drive</a></li>
+					<li><a href="#" class="hover:text-white">Dropbox</a></li>
 					<li><a href="#" class="hover:text-white">Slack</a></li>
-					<li><a href="#" class="hover:text-white">Outreach</a></li>
-					<li><a href="#" class="hover:text-white">Mixmax</a></li>
-					<li><a href="#" class="hover:text-white">Typeform</a></li>
-					<li><a href="#" class="hover:text-white">Zapier</a></li>
+					<li><a href="#" class="hover:text-white">API</a></li>
 				</ul>
 			</div>
 

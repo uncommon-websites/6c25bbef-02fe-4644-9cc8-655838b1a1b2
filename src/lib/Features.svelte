@@ -5,34 +5,34 @@
 <section class="max-w-[1200px] mx-auto px-6 py-20">
 	<div class="mb-20 max-w-2xl">
 		<h2 class="text-4xl font-serif text-gray-900 mb-6">
-			GTM at full throttle. <span class="text-gray-500 font-sans text-xl font-normal block mt-4">Execute your revenue strategy with precision. Design powerful workflows, deploy AI, integrate your data and build detailed reports — all in one platform.</span>
+			Control. Context. Ecosystem. <span class="text-gray-500 font-sans text-xl font-normal block mt-4">Configure templates with precision, trace every output to source material, and access expert templates from the marketplace — all in one platform.</span>
 		</h2>
 	</div>
 
 	<div class="border border-gray-200 rounded-xl overflow-hidden bg-white shadow-sm">
-		<!-- Row 1: Automate everything -->
+		<!-- Row 1: Configure Templates -->
 		<div class="grid grid-cols-1 md:grid-cols-3 border-b border-gray-200">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Automate everything</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Configure templates</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						You're in control. Automate even the most complex business processes with our powerful, intelligent automation engine.
+						Set element-level rules and deck-level settings once. Generate infinite variations without regenerating entire presentations.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore automations <ArrowRight size={16} />
+					Explore templates <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center overflow-hidden relative">
-				<!-- Workflow Diagram Mockup -->
+				<!-- Template Configuration Mockup -->
 				<div class="relative w-full max-w-lg">
-					<!-- Trigger -->
+					<!-- Master Template -->
 					<div class="absolute top-0 left-0 bg-white border border-gray-200 rounded-lg p-3 shadow-sm w-64 z-10">
 						<div class="flex items-center gap-2 text-xs font-medium text-gray-500 mb-2">
-							<Zap size={12} /> Trigger
+							<Zap size={12} /> Master Template
 						</div>
-						<div class="text-sm font-medium text-gray-900">When Deal updated</div>
-						<div class="text-xs text-gray-400 mt-1">Trigger when primary contact is updated</div>
+						<div class="text-sm font-medium text-gray-900">Client Pitch Deck</div>
+						<div class="text-xs text-gray-400 mt-1">Configure once, generate variations</div>
 					</div>
 
 					<!-- Path -->
@@ -41,27 +41,27 @@
 						<path d="M 0 0 V 20 H -100 V 40" fill="none" stroke="#e5e7eb" stroke-width="2" />
 					</svg>
 
-					<!-- Branch 1 -->
+					<!-- Variation 1 -->
 					<div class="absolute top-32 -left-20 bg-white border border-gray-200 rounded-lg p-3 shadow-sm w-56">
 						<div class="flex items-center gap-2 text-xs font-medium text-gray-500 mb-2">
-							<div class="w-2 h-2 rounded-full bg-blue-500"></div> Switch
+							<div class="w-2 h-2 rounded-full bg-blue-500"></div> Variation
 						</div>
-						<div class="text-sm font-medium text-gray-900">Health score</div>
+						<div class="text-sm font-medium text-gray-900">Investor Version</div>
 						<div class="mt-2 flex gap-2">
-							<span class="px-2 py-0.5 bg-green-100 text-green-700 text-[10px] rounded">Good</span>
-							<span class="px-2 py-0.5 bg-red-100 text-red-700 text-[10px] rounded">Poor</span>
+							<span class="px-2 py-0.5 bg-purple-100 text-purple-700 text-[10px] rounded">Financial</span>
+							<span class="px-2 py-0.5 bg-blue-100 text-blue-700 text-[10px] rounded">Formal</span>
 						</div>
 					</div>
 
-					<!-- Branch 2 -->
+					<!-- Variation 2 -->
 					<div class="absolute top-32 left-40 bg-white border border-gray-200 rounded-lg p-3 shadow-sm w-56">
 						<div class="flex items-center gap-2 text-xs font-medium text-gray-500 mb-2">
-							<Mail size={12} /> Email
+							<div class="w-2 h-2 rounded-full bg-green-500"></div> Variation
 						</div>
-						<div class="text-sm font-medium text-gray-900">Onboarding manual</div>
-						<div class="flex items-center gap-2 mt-2">
-							<div class="w-6 h-6 rounded-full bg-gray-100 flex items-center justify-center text-[10px]">JD</div>
-							<span class="text-xs text-gray-500">Sent from John Doe</span>
+						<div class="text-sm font-medium text-gray-900">Partner Version</div>
+						<div class="mt-2 flex gap-2">
+							<span class="px-2 py-0.5 bg-green-100 text-green-700 text-[10px] rounded">Strategic</span>
+							<span class="px-2 py-0.5 bg-orange-100 text-orange-700 text-[10px] rounded">Brief</span>
 						</div>
 					</div>
 				</div>
@@ -76,24 +76,24 @@
 			</div>
 		</div>
 
-		<!-- Row 2: Deploy AI -->
+		<!-- Row 2: Precision AI Editing -->
 		<div class="grid grid-cols-1 md:grid-cols-3 border-b border-gray-200">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Deploy AI</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Precision AI editing</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						Put our research agent to work and rotate complex tasks that normally require human effort, like prospecting, lead routing and more.
+						Edit specific elements without regenerating entire decks. Surgical precision meets AI power for professional workflows.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore AI <ArrowRight size={16} />
+					Explore editing <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center relative">
 				<div class="bg-white rounded-xl shadow-sm border border-gray-200 w-full max-w-md overflow-hidden">
 					<div class="p-3 border-b border-gray-100 flex items-center gap-2 bg-gray-50/50">
 						<Bot size={16} class="text-purple-600" />
-						<span class="text-xs font-medium text-gray-700">New task found</span>
+						<span class="text-xs font-medium text-gray-700">Precision editing mode</span>
 					</div>
 					<div class="p-4 space-y-4">
 						<div class="flex gap-3">
@@ -102,24 +102,24 @@
 							</div>
 							<div class="flex-1">
 								<div class="bg-gray-50 rounded-lg p-3 text-sm text-gray-800 mb-2">
-									<p class="font-medium mb-1">Activate PLG motion</p>
-									<p class="text-gray-500 text-xs">Does the company sell software to other businesses?</p>
+									<p class="font-medium mb-1">Edit slide 3: Market Analysis</p>
+									<p class="text-gray-500 text-xs">Make the tone more formal and add CAGR data</p>
 								</div>
 								
 								<div class="bg-white border border-gray-200 rounded-lg p-3 text-sm text-gray-800 mb-2 shadow-sm">
 									<div class="flex items-center gap-2 mb-2">
 										<div class="w-4 h-4 rounded bg-blue-100 flex items-center justify-center text-[10px] text-blue-600">✓</div>
-										<span class="font-medium">Conduct role of subjectivity?</span>
+										<span class="font-medium">Tone adjusted to professional</span>
 									</div>
-									<p class="text-gray-500 text-xs">Yes the company was only found recently.</p>
+									<p class="text-gray-500 text-xs">Updated language to match enterprise standards</p>
 								</div>
 
 								<div class="bg-white border border-gray-200 rounded-lg p-3 text-sm text-gray-800 shadow-sm">
 									<div class="flex items-center gap-2 mb-2">
 										<div class="w-4 h-4 rounded bg-blue-100 flex items-center justify-center text-[10px] text-blue-600">✓</div>
-										<span class="font-medium">Identify key stakeholders</span>
+										<span class="font-medium">Added 13.9% CAGR metric</span>
 									</div>
-									<p class="text-gray-500 text-xs">Who are the key stakeholders at the company?</p>
+									<p class="text-gray-500 text-xs">Sourced from market-research-2024.pdf</p>
 								</div>
 							</div>
 						</div>
@@ -137,54 +137,54 @@
 			</div>
 		</div>
 
-		<!-- Row 3: Connect any type of data -->
+		<!-- Row 3: Mind Map with Citations -->
 		<div class="grid grid-cols-1 md:grid-cols-3 border-b border-gray-200">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Connect any type of data</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Mind map with citations</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						Sync product data, billing data, and everything in between, for a real-time single source of truth for your business.
+						Trace every output back to source material. Full transparency and control over your AI-generated content.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore data <ArrowRight size={16} />
+					Explore mind map <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center relative">
 				<div class="relative w-full max-w-md h-64 flex items-center justify-center">
-					<!-- Center Logo -->
-					<div class="w-16 h-16 bg-black rounded-xl flex items-center justify-center z-10 shadow-lg">
-						<span class="text-white font-bold text-2xl font-serif">a</span>
+					<!-- Center Slide -->
+					<div class="w-20 h-16 bg-white border-2 border-black rounded flex items-center justify-center z-10 shadow-lg">
+						<span class="text-black font-bold text-xs">Slide 3</span>
 					</div>
 
 					<!-- Connecting Lines -->
 					<svg class="absolute inset-0 w-full h-full pointer-events-none">
-						<line x1="50%" y1="50%" x2="20%" y2="20%" stroke="#e5e7eb" stroke-width="1" />
-						<line x1="50%" y1="50%" x2="80%" y2="20%" stroke="#e5e7eb" stroke-width="1" />
-						<line x1="50%" y1="50%" x2="20%" y2="80%" stroke="#e5e7eb" stroke-width="1" />
-						<line x1="50%" y1="50%" x2="80%" y2="80%" stroke="#e5e7eb" stroke-width="1" />
-						<line x1="50%" y1="50%" x2="50%" y2="15%" stroke="#e5e7eb" stroke-width="1" />
-						<line x1="50%" y1="50%" x2="50%" y2="85%" stroke="#e5e7eb" stroke-width="1" />
+						<line x1="50%" y1="50%" x2="20%" y2="20%" stroke="#e5e7eb" stroke-width="2" />
+						<line x1="50%" y1="50%" x2="80%" y2="20%" stroke="#e5e7eb" stroke-width="2" />
+						<line x1="50%" y1="50%" x2="20%" y2="80%" stroke="#e5e7eb" stroke-width="2" />
+						<line x1="50%" y1="50%" x2="80%" y2="80%" stroke="#e5e7eb" stroke-width="2" />
+						<line x1="50%" y1="50%" x2="50%" y2="15%" stroke="#e5e7eb" stroke-width="2" />
+						<line x1="50%" y1="50%" x2="50%" y2="85%" stroke="#e5e7eb" stroke-width="2" />
 					</svg>
 
-					<!-- Icons -->
-					<div class="absolute top-10 left-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100">
-						<Database size={20} class="text-blue-500" />
+					<!-- Source Citations -->
+					<div class="absolute top-10 left-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100 text-[10px] text-gray-600">
+						📄 research.pdf
 					</div>
-					<div class="absolute top-10 right-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100">
-						<MessageSquare size={20} class="text-green-500" />
+					<div class="absolute top-10 right-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100 text-[10px] text-gray-600">
+						📊 data.xlsx
 					</div>
-					<div class="absolute bottom-10 left-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100">
-						<Mail size={20} class="text-red-500" />
+					<div class="absolute bottom-10 left-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100 text-[10px] text-gray-600">
+						🔗 article.com
 					</div>
-					<div class="absolute bottom-10 right-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100">
-						<Calendar size={20} class="text-purple-500" />
+					<div class="absolute bottom-10 right-20 bg-white p-2 rounded-lg shadow-sm border border-gray-100 text-[10px] text-gray-600">
+						📝 notes.txt
 					</div>
-					<div class="absolute top-4 left-1/2 -translate-x-1/2 bg-white p-2 rounded-lg shadow-sm border border-gray-100">
-						<div class="w-5 h-5 bg-orange-500 rounded-full"></div>
+					<div class="absolute top-4 left-1/2 -translate-x-1/2 bg-white p-2 rounded-lg shadow-sm border border-gray-100 text-[10px] text-gray-600">
+						💼 brief.docx
 					</div>
-					<div class="absolute bottom-4 left-1/2 -translate-x-1/2 bg-white p-2 rounded-lg shadow-sm border border-gray-100">
-						<div class="w-5 h-5 bg-indigo-500 rounded-sm"></div>
+					<div class="absolute bottom-4 left-1/2 -translate-x-1/2 bg-white p-2 rounded-lg shadow-sm border border-gray-100 text-[10px] text-gray-600">
+						📈 stats.csv
 					</div>
 				</div>
 				
@@ -198,67 +198,82 @@
 			</div>
 		</div>
 
-		<!-- Row 4: Powerful reporting -->
+		<!-- Row 4: Template Marketplace -->
 		<div class="grid grid-cols-1 md:grid-cols-3">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Powerful reporting</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Template marketplace</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						Create real-time, detailed reports that scale with your data. Visualize, customize, and get deep insights in seconds — not hours.
+						Access expert templates from industry professionals. Earn credits when your templates are used by others.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore reporting <ArrowRight size={16} />
+					Explore marketplace <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center relative">
 				<div class="grid grid-cols-2 gap-6 w-full max-w-lg">
-					<!-- Chart 1 -->
+					<!-- Template Card 1 -->
 					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
-						<div class="flex items-center justify-between mb-4">
-							<div class="text-xs font-medium text-gray-500">Revenue</div>
-							<MoreHorizontal size={14} class="text-gray-400" />
+						<div class="bg-gradient-to-br from-blue-100 to-purple-100 h-24 rounded mb-3 flex items-center justify-center">
+							<span class="text-xs text-gray-600">Consultant Pitch</span>
 						</div>
-						<div class="h-32 flex items-end gap-2 justify-between px-2">
-							<div class="w-full bg-pink-100 h-[40%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-200 h-[60%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-300 h-[30%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-400 h-[80%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-500 h-[50%] rounded-t-sm"></div>
+						<div class="text-sm font-medium text-gray-900 mb-1">Strategy Deck</div>
+						<div class="flex items-center gap-2 mb-2">
+							<div class="w-5 h-5 rounded-full bg-gray-200"></div>
+							<span class="text-xs text-gray-500">by Alex K.</span>
 						</div>
-						<div class="flex justify-between mt-2 text-[10px] text-gray-400">
-							<span>Mon</span>
-							<span>Tue</span>
-							<span>Wed</span>
-							<span>Thu</span>
-							<span>Fri</span>
+						<div class="flex items-center justify-between">
+							<span class="text-xs text-gray-400">2.4k uses</span>
+							<span class="text-xs font-medium text-blue-600">Use template</span>
 						</div>
 					</div>
 
-					<!-- List -->
-					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm space-y-3">
-						<div class="flex items-center justify-between mb-2">
-							<div class="text-xs font-medium text-gray-500">Top Deals</div>
+					<!-- Template Card 2 -->
+					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+						<div class="bg-gradient-to-br from-green-100 to-blue-100 h-24 rounded mb-3 flex items-center justify-center">
+							<span class="text-xs text-gray-600">Investor Deck</span>
 						</div>
-						<div class="flex items-center gap-2 text-xs">
-							<div class="w-2 h-2 rounded-full bg-green-500"></div>
-							<span class="flex-1">Acme Corp</span>
-							<span class="font-medium">$12k</span>
+						<div class="text-sm font-medium text-gray-900 mb-1">Fundraising</div>
+						<div class="flex items-center gap-2 mb-2">
+							<div class="w-5 h-5 rounded-full bg-gray-200"></div>
+							<span class="text-xs text-gray-500">by Sarah M.</span>
 						</div>
-						<div class="flex items-center gap-2 text-xs">
-							<div class="w-2 h-2 rounded-full bg-blue-500"></div>
-							<span class="flex-1">Global Inc</span>
-							<span class="font-medium">$8.5k</span>
+						<div class="flex items-center justify-between">
+							<span class="text-xs text-gray-400">1.8k uses</span>
+							<span class="text-xs font-medium text-blue-600">Use template</span>
 						</div>
-						<div class="flex items-center gap-2 text-xs">
-							<div class="w-2 h-2 rounded-full bg-purple-500"></div>
-							<span class="flex-1">Stark Ind</span>
-							<span class="font-medium">$15k</span>
+					</div>
+
+					<!-- Template Card 3 -->
+					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+						<div class="bg-gradient-to-br from-orange-100 to-red-100 h-24 rounded mb-3 flex items-center justify-center">
+							<span class="text-xs text-gray-600">Sales Pitch</span>
 						</div>
-						<div class="flex items-center gap-2 text-xs">
-							<div class="w-2 h-2 rounded-full bg-orange-500"></div>
-							<span class="flex-1">Wayne Ent</span>
-							<span class="font-medium">$22k</span>
+						<div class="text-sm font-medium text-gray-900 mb-1">Enterprise Sales</div>
+						<div class="flex items-center gap-2 mb-2">
+							<div class="w-5 h-5 rounded-full bg-gray-200"></div>
+							<span class="text-xs text-gray-500">by Mike R.</span>
+						</div>
+						<div class="flex items-center justify-between">
+							<span class="text-xs text-gray-400">3.1k uses</span>
+							<span class="text-xs font-medium text-blue-600">Use template</span>
+						</div>
+					</div>
+
+					<!-- Template Card 4 -->
+					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+						<div class="bg-gradient-to-br from-purple-100 to-pink-100 h-24 rounded mb-3 flex items-center justify-center">
+							<span class="text-xs text-gray-600">Product Launch</span>
+						</div>
+						<div class="text-sm font-medium text-gray-900 mb-1">Go-to-Market</div>
+						<div class="flex items-center gap-2 mb-2">
+							<div class="w-5 h-5 rounded-full bg-gray-200"></div>
+							<span class="text-xs text-gray-500">by Lisa T.</span>
+						</div>
+						<div class="flex items-center justify-between">
+							<span class="text-xs text-gray-400">1.5k uses</span>
+							<span class="text-xs font-medium text-blue-600">Use template</span>
 						</div>
 					</div>
 				</div>

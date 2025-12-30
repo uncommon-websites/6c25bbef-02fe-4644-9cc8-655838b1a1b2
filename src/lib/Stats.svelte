@@ -5,29 +5,29 @@
 	<div class="grid grid-cols-1 md:grid-cols-2 gap-20 items-center relative z-10">
 		<div>
 			<h2 class="text-4xl font-serif text-gray-900 mb-6">
-				The system of action for the next generation.
+				Built for professional workflows.
 			</h2>
 			<p class="text-gray-500 text-lg leading-relaxed">
-				Attio is built for scale. Our customers sort through millions of records with sub-50ms latency.
+				Sage is designed for consultants, entrepreneurs, and professionals who demand precision and control in their presentations.
 			</p>
 		</div>
 
 		<div class="grid grid-cols-2 gap-y-12 gap-x-8">
 			<div>
-				<div class="text-4xl font-bold text-gray-900 mb-2">200,000,000</div>
-				<div class="text-sm text-gray-500">Customer records</div>
+				<div class="text-4xl font-bold text-gray-900 mb-2">18M</div>
+				<div class="text-sm text-gray-500">Knowledge workers</div>
 			</div>
 			<div>
-				<div class="text-4xl font-bold text-gray-900 mb-2">132+</div>
-				<div class="text-sm text-gray-500">Countries</div>
+				<div class="text-4xl font-bold text-gray-900 mb-2">$74B</div>
+				<div class="text-sm text-gray-500">Market opportunity</div>
 			</div>
 			<div>
-				<div class="text-4xl font-bold text-gray-900 mb-2">5,000+</div>
-				<div class="text-sm text-gray-500">Customers</div>
+				<div class="text-4xl font-bold text-gray-900 mb-2">100%</div>
+				<div class="text-sm text-gray-500">PPTX fidelity</div>
 			</div>
 			<div>
-				<div class="text-4xl font-bold text-gray-900 mb-2">99.9%</div>
-				<div class="text-sm text-gray-500">Uptime</div>
+				<div class="text-4xl font-bold text-gray-900 mb-2">13.9%</div>
+				<div class="text-sm text-gray-500">Market CAGR</div>
 			</div>
 		</div>
 	</div>
